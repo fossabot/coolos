@@ -42,6 +42,8 @@ Coolors is a color picker website developed using the Next.js technology stack, 
 - liense
 
 # Coolos
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhehehai%2Fcoolos.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhehehai%2Fcoolos?ref=badge_shield)
+
 
 a color tool site <https://coolos.vercel.app>
 
@@ -77,3 +79,7 @@ bun dev
 [github-license-shield]: https://img.shields.io/github/license/hehehai/coolos?color=white&labelColor=black&style=flat-square
 [vercel-link]: https://coolos.vercel.app
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fcoolos.vercel.app
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhehehai%2Fcoolos.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhehehai%2Fcoolos?ref=badge_large)
